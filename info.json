@@ -1,12 +1,13 @@
 {
     "name": "RFT-modules",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "title": "Random Factorio Things - modules",
     "author": "JohnTheCoolingFan",
     "contact": "https://discord.gg/grHVhE2",
     "homepage": "https://discord.gg/grHVhE2",
     "dependencies": [
-        "base >= 1.0.0"
+        "base >= 1.0.0",
+        "! RandomFactorioThings"
     ],
     "description": "Random Factorio Things except it's only modules",
     "factorio_version": "1.0"
