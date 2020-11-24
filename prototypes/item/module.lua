@@ -188,7 +188,7 @@ data:extend({
             productivity = {bonus = 0.16},
             consumption = {bonus = 1},
             pollution = {bonus = 0.14},
-            speed = {bonus = -0.15}
+            speed = {bonus = -0.20}
         },
         limitation = productivity_module_limitation(),
         limitation_message_key = "production-module-usable-only-on-intermediates"
@@ -210,7 +210,7 @@ data:extend({
             productivity = {bonus = 0.24},
             consumption = {bonus = 1.2},
             pollution = {bonus = 0.19},
-            speed = {bonus = -0.15}
+            speed = {bonus = -0.25}
         },
         limitation = productivity_module_limitation(),
         limitation_message_key = "production-module-usable-only-on-intermediates"
@@ -232,7 +232,7 @@ data:extend({
             productivity = {bonus = 0.34},
             consumption = {bonus = 1.4},
             pollution = {bonus = 0.25},
-            speed = {bonus = -0.15}
+            speed = {bonus = -0.30}
         },
         limitation = productivity_module_limitation(),
         limitation_message_key = "production-module-usable-only-on-intermediates"
