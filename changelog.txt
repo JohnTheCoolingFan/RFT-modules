@@ -6,6 +6,18 @@ Date: 24.11.2020
       Level 4 speed bonus: -15% -> -20%
       Level 5 speed bonus: -15% -> -25%
       Level 6 speed bonus: -15% -> -30%
+    - Productivity-Effectivity modules:
+      Level 1 speed bonus: -15% -> -5%
+      Level 2 speed bonus: -15% -> -10%
+      Level 4 speed bonus: -15% -> -20%
+      Level 5 speed bonus: -15% -> -25%
+      Level 6 speed bonus: -15% -> -30%
+    - Speed-Productivity modules:
+      Level 1 speed bonus: +5% -> +15%
+      Level 2 speed bonus: +15% -> +20%
+      Level 4 speed bonus: +65% -> +60%
+      Level 5 speed bonus: +105% -> +95%
+      Level 6 speed bonus: +155% -> +140%
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.1
 Date: 06.09.2020
